@@ -89,3 +89,13 @@ footer {
     background-color: var(--color3);
     box-shadow: var(--shadow);
 }
+
+#past-poll-container {
+    border-top: 10px;
+    border-width: 5px;
+    border: 5px;
+}
+
+.bottom {
+    margin: 10px;
+}
